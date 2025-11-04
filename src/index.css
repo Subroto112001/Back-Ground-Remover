@@ -17,3 +17,7 @@
     background-size: cover;
     cursor: pointer
 }
+
+.bg-layer{
+    background-image: url(/public/bg_layer.png);
+}
